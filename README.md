@@ -24,24 +24,12 @@
 **赠人玫瑰，手有余香！**
 **在人工智能的道路上，你不是一个人在战斗！**
 
-黄海广
-
-2018-3-26 夜
-
-微信公众号：机器学习初学者 ![gongzhong](images/gongzhong.jpg)
-知识星球：黄博的机器学习圈子![xingqiu](images/zhishixingqiu1.jpg)
-
-[我的知乎](https://www.zhihu.com/people/fengdu78/activities)
 
 参考：https://www.coursera.org/course/ml 机器学习公开课
-
-https://mooc.guokr.com/note/12/ [小小人_V](https://mooc.guokr.com/user/2133483357/) 的个人笔记
 
 《统计学习方法》李航
     
 《机器学习课》邹博
-
-**注意：github下载太慢的话，关注我的公众号：“机器学习初学者”，回复“github镜像”即可下载本仓库的镜像文件，整个仓库压缩成一个iso。**
 
 备注：吴恩达老师的深度学习课（deepLearning.ai）的笔记地址：https://github.com/fengdu78/deeplearning_ai_books
 
@@ -69,7 +57,6 @@ https://mooc.guokr.com/note/12/ [小小人_V](https://mooc.guokr.com/user/213348
 
 笔记pdf版本下载 ：见**github**根目录。
 
-机器学习qq群：704220115（我们有11个群，加过一个就不需要加了）
 
 -----------------------
 
